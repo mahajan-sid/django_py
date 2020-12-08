@@ -1,3 +1,2 @@
 # django_py
-This is my first Python Django project where I used Django, SQLite ,HTML,CSS and BootStrap. 
-I surely will improve the website in the coming time and I want everyone to take help from this without copying it but taking the inspiration of some sort.
+
